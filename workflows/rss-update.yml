@@ -1,4 +1,4 @@
-name: Update RSS feed
+name: UpdateRSSfeed
 
 on:
   schedule:
@@ -40,6 +40,5 @@ jobs:
       - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: "Update XML file"
+        commit_message: "UpdateRSSfeed"
         commit_options: "--no-verify"
-        branch: ${{ github.ref }}
