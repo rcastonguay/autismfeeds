@@ -1,9 +1,9 @@
-name: UpdateRSSfeed
+name: Update RSS feed
 
 on:
   schedule:
     # Set the cron schedule to your desired interval (e.g. every day at 12:00 UTC).
-    - cron: '07 23 * * *'
+    - cron: '32 22 * * *'
     push:
       branches:
         - main
@@ -34,16 +34,16 @@ jobs:
 
       # Run the Python script to generate the RSS feed.
       - name: Generate RSS feed
-        run: python3 feed-create.py
+        run: python3 feed-create.py > filtered-rss-feed.xml
 
       # Commit the updated RSS feed to the GitHub Pages branch.
       - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git commit -m "update data" -a
-      - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "Update filtered RSS feed"
+          branch: ${{ github.ref }}
+          commit_user_name: "GitHub Actions"
+          commit_user_email: "actions@github.com"
+          commit_options: "--no-verify --signoff"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
