@@ -3,7 +3,7 @@ name: Update RSS feed
 on:
   schedule:
     # Set the cron schedule to your desired interval (e.g. every day at 12:00 UTC).
-    - cron: '45 21 * * *'
+    - cron: '55 21 * * *'
 
 jobs:
   update-feed:
@@ -20,7 +20,7 @@ jobs:
           python-version: '3.9.6' # Replace with your desired Python version.
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip3 install -r requirements.txt
 
       # Run the Python script to generate the RSS feed.
       - name: Generate RSS feed
