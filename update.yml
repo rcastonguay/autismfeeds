@@ -1,0 +1,36 @@
+name: Update RSS feed
+
+on:
+  schedule:
+    # Set the cron schedule to your desired interval (e.g. every day at 12:00 UTC).
+    - cron: '0 15 * * *'
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your script can access it.
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      # Set up Python and install dependencies.
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9.6' # Replace with your desired Python version.
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # Run the Python script to generate the RSS feed.
+      - name: Generate RSS feed
+        run: python feed-create.py
+
+      # Commit the updated RSS feed to the GitHub Pages branch.
+      - name: Commit changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add filtered-rss-feed.xml
+          git commit -m 'Update RSS feed'
+          git push
