@@ -38,12 +38,8 @@ jobs:
 
       # Commit the updated RSS feed to the GitHub Pages branch.
       - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Update filtered RSS feed"
-          branch: ${{ github.ref }}
-          commit_user_name: "GitHub Actions"
-          commit_user_email: "actions@github.com"
-          commit_options: "--no-verify --signoff"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: "Update XML file"
+        commit_options: "--no-verify"
+        branch: ${{ github.ref }}
