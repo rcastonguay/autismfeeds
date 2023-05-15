@@ -3,7 +3,7 @@ name: Update RSS feed
 on:
   schedule:
     # Set the cron schedule to your desired interval (e.g. every day at 12:00 UTC).
-    - cron: '05 22 * * *'
+    - cron: '10 22 * * *'
 
 jobs:
   update-feed:
