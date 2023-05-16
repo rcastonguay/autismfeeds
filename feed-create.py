@@ -51,4 +51,4 @@ for feed in feeds:
 
 # Generate the RSS feed XML file.
 rssfeed = fg.rss_str(pretty=True)
-print(rssfeed.decode())
+
