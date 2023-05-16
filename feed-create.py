@@ -21,10 +21,6 @@ feeds = [
     'https://globalnews.ca/feed/',
         ]
 
-
-https://feeds.feedburner.com/np_top_stories.rss
-]
-
 keywords = ['autism', 'autistic']
 
 # Create a new feed generator object.
