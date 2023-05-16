@@ -3,13 +3,13 @@ name: UpdateRSSfeed
 on:
   schedule:
     # Set the cron schedule to your desired interval (e.g. every day at 12:00 UTC).
-    - cron: 25 23 * * *'
-    push:
-      branches:
-        - main
-    workflow_dispatch:
-      branches:
-        - main
+    - cron: '25 23 * * *'
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+    branches:
+      - main
 
 jobs:
   update-feed:
@@ -38,7 +38,7 @@ jobs:
 
       # Commit the updated RSS feed to the GitHub Pages branch.
       - name: Commit changes
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: "UpdateRSSfeed"
-        commit_options: "--no-verify"
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "UpdateRSSfeed"
+          commit_options: "--no-verify"
