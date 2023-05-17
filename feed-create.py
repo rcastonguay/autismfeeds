@@ -21,7 +21,7 @@ feeds = [
     'https://globalnews.ca/feed/',
         ]
 
-keywords = ['autism', 'autistic']
+keywords = ['autism', 'autistic', 'autisme', 'autistique', 'asperger']
 
 # Create a new feed generator object.
 fg = FeedGenerator()
