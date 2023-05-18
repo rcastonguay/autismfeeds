@@ -1,4 +1,5 @@
 feedparser
 feedgen
+feedgen.feed
 python-dateutil
 pytz
