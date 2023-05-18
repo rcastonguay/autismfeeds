@@ -7,7 +7,7 @@ import re
 
 
 # Define a custom time zone mapping for EDT
-tzinfos = {"EDT": tz.gettz("America/New_York")}
+tzinfos = {"PST": tz.gettz("America/Los_Angeles")}
 
 
 feeds = [
@@ -44,9 +44,9 @@ for feed in feeds:
             fe.link(href=entry.link)
             date = parser.parse(entry.published, fuzzy=True)
             if date.tzinfos is None or date.tzinfos.utcoffset(date) is None:
-                date = timezone('UTC').localize(date.replace(tzinfos=None))
+                date = timezone('PST').localize(date.replace(tzinfos=None))
             else:
-                date = date.astimezone(timezone('UTC'))
+                date = date.astimezone(timezone('PST'))
             fe.pubDate(date)
 
 # Generate the RSS feed XML file.
