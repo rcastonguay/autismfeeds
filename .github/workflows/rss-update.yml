@@ -43,4 +43,3 @@ jobs:
         with:
           commit_message: "UpdateRSSfeed"
           commit_options: "--no-verify"
-          token: ${{ secrets.RSS_SECRET_CODE }}
