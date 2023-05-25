@@ -7,7 +7,7 @@ import re
 
 
 # Define a custom time zone mapping for EDT
-tzinfos = {"PST": tz.gettz("America/Los_Angeles")}
+tzinfos = {"PST": tz.gettz("America/Los_Angeles"), "EDT": tz.gettz("America/New_York")}
 
 
 feeds = [
@@ -27,7 +27,7 @@ feeds = [
     'https://globalnews.ca/feed/',
         ]
 
-keywords = ['autism', 'autistic']
+keywords = ['autism', 'autistic', 'autisme', 'autistique', 'asperger']
 
 # Create a new feed generator object.
 fg = FeedGenerator()
@@ -42,11 +42,11 @@ for feed in feeds:
             fe = fg.add_entry()
             fe.title(entry.title)
             fe.link(href=entry.link)
-            date = parser.parse(entry.published, fuzzy=True)
-            if date.tzinfos is None or date.tzinfos.utcoffset(date) is None:
-                date = timezone('PST').localize(date.replace(tzinfos=None))
+            date = parser.parse(entry.published, fuzzy=True, tzinfos=tzinfos)
+            if date.tzinfo is None or date.tzinfo.utcoffset(date) is None:
+                date = date.replace(tzinfo=tz.gettz('UTC')).astimezone(tz.gettz('PST'))
             else:
-                date = date.astimezone(timezone('PST'))
+                date = date.astimezone(tz.gettz('PST'))
             fe.pubDate(date)
 
 # Generate the RSS feed XML file.
