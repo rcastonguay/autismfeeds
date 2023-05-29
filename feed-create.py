@@ -31,7 +31,7 @@ keywords = ['autism', 'autistic', 'autisme', 'autistique', 'asperger']
 
 # Create a new feed generator object.
 fg = FeedGenerator()
-fg.title('Good autism resources')
+fg.title('Autism News')
 fg.link(href='https://rcastonguay.github.io/autismfeeds/index.xml', rel='self')
 fg.description('An RSS feed filtered by autism keywords.')
 
