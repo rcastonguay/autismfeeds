@@ -24,7 +24,7 @@ feeds = [
     'http://ctvnews.ca/rss/TopStories',
     'https://www.ctvnews.ca/rss/ctvnews-ca-canada-public-rss-1.822284',
     'https://vancouverisland.ctvnews.ca/rss/ctv-vancouver-island-latest-news-1.1245414',
-    'https://globalnews.ca/feed/',
+    'https://globalnews.ca/feed/'
         ]
 
 keywords = ['autism', 'autistic', 'autisme', 'autistique', 'asperger']
@@ -37,6 +37,7 @@ fg.description('An RSS feed filtered by autism keywords.')
 
 for feed in feeds:
     d = feedparser.parse(feed)
+    for entry in d.entries:
         if any(keyword in entry.title.lower() or keyword in entry.summary.lower() or keyword in entry.description.lower() for keyword in keywords):
             fe = fg.add_entry()
             fe.title(entry.title)
