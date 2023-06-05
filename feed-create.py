@@ -37,7 +37,6 @@ fg.description('An RSS feed filtered by autism keywords.')
 
 for feed in feeds:
     d = feedparser.parse(feed)
-    for entry in d.entries:
         if any(keyword in entry.title.lower() or keyword in entry.summary.lower() or keyword in entry.description.lower() for keyword in keywords):
             print(entry)
             fe = fg.add_entry()
