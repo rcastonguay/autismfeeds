@@ -24,7 +24,8 @@ feeds = [
     'http://ctvnews.ca/rss/TopStories',
     'https://www.ctvnews.ca/rss/ctvnews-ca-canada-public-rss-1.822284',
     'https://vancouverisland.ctvnews.ca/rss/ctv-vancouver-island-latest-news-1.1245414',
-    'https://globalnews.ca/feed/'
+    'https://globalnews.ca/feed/',
+    'https://rcastonguay.github.io/autismfeeds/aid-news.xml'
         ]
 
 keywords = ['autism', 'autistic', 'autisme', 'autistique', 'asperger']
