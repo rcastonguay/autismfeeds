@@ -3,7 +3,7 @@ name: UpdateRSSfeed
 on:
   schedule:
     # Set the cron schedule to your desired interval (e.g. every day at 12:00 UTC).
-    - cron: '0 13 * * *'
+    - cron: '10 0-23/3 * * *'
       timezone: America/Vancouver
   push:
     branches:
