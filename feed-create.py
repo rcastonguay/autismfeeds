@@ -25,7 +25,10 @@ feeds = [
     'https://www.ctvnews.ca/rss/ctvnews-ca-canada-public-rss-1.822284',
     'https://vancouverisland.ctvnews.ca/rss/ctv-vancouver-island-latest-news-1.1245414',
     'https://globalnews.ca/feed/',
-    'https://rcastonguay.github.io/autismfeeds/aid-news.xml'
+    'https://rcastonguay.github.io/autismfeeds/aid-news.xml',
+    'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
+    'https://rss.nytimes.com/services/xml/rss/nyt/Science.xml',
+    'https://rss.nytimes.com/services/xml/rss/nyt/Health.xml'
         ]
 
 keywords = ['autism', 'autistic', 'autisme', 'autistique', 'asperger']
