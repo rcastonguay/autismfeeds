@@ -1,21 +1,23 @@
 <rss version="2.0">
-<channel>
-<title>AID News</title>
-<link>https://rcastonguay.github.io/autismfeeds/aid-news.xml</link>
-<language>en-ca</language>
-<lastBuildDate>Thu, 8 Jun 2023 10:47:30 PST</lastBuildDate>
-<copyright>
-ACT- Autism Community Training
-</copyright>
-<item>
-<title>
-Weaponized heterogeneity only harms the most vulnerable autistic people
-</title>
-<link>
-https://www.spectrumnews.org/opinion/viewpoint/weaponized-heterogeneity-only-harms-the-most-vulnerable-autistic-people/
-</link>
-<author>Mary Doherty
-<author/>
-<description>"Autistic people as a group are heterogeneous, with a wide range of presentations, challenges and support needs. That heterogeneity is commonly weaponized against more able autistic people, often by autism researchers or parents who wish to highlight the needs of their autistic children who have higher support needs. This tactic, however, can backfire and increase harm to the most vulnerable autistic people because it separates this group from the insights gained from autistic scholarship. Focusing on aspects of autistic experience that we all share may be more fruitful and lead more quickly to our shared goal of improved outcomes for all autistic people."
-</description>
-</item>
+  <channel>
+    <title>AID News</title>
+    <link>https://rcastonguay.github.io/autismfeeds/aid-news.xml</link>
+    <language>en-ca</language>
+    <lastBuildDate>Thu, 8 Jun 2023 10:47:30 PST</lastBuildDate>
+    <copyright>
+      ACT- Autism Community Training
+    </copyright>
+    <item>
+      <title>
+        Weaponized heterogeneity only harms the most vulnerable autistic people
+      </title>
+      <link>
+        https://www.spectrumnews.org/opinion/viewpoint/weaponized-heterogeneity-only-harms-the-most-vulnerable-autistic-people/
+      </link>
+      <author>Mary Doherty</author>
+      <description>
+        "Autistic people as a group are heterogeneous, with a wide range of presentations, challenges, and support needs. That heterogeneity is commonly weaponized against more able autistic people, often by autism researchers or parents who wish to highlight the needs of their autistic children who have higher support needs. This tactic, however, can backfire and increase harm to the most vulnerable autistic people because it separates this group from the insights gained from autistic scholarship. Focusing on aspects of autistic experience that we all share may be more fruitful and lead more quickly to our shared goal of improved outcomes for all autistic people."
+      </description>
+    </item>
+  </channel>
+</rss>
