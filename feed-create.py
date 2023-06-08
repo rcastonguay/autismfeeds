@@ -43,7 +43,7 @@ for feed in feeds:
             fe = fg.add_entry()
             fe.title(entry.title)
             fe.link(href=entry.link)
-            fe.description(href=entry.description)
+            fe.description(entry.description)
             date = parser.parse(entry.published, fuzzy=True, tzinfos=tzinfos)
             if date.tzinfo is None or date.tzinfo.utcoffset(date) is None:
                 date = date.replace(tzinfo=tz.gettz('UTC')).astimezone(tz.gettz('PST'))
