@@ -1,12 +1,13 @@
-<rss version="1.0">
+<rss version="2.0">
   <channel>
     <title>AID News</title>
     <link>https://rcastonguay.github.io/autismfeeds/aid-news.xml</link>
     <language>en-ca</language>
+    <lastBuildDate>Thu, 8 Jun 2023 10:47:30 EDT</lastBuildDate>
     <copyright>
       ACT- Autism Community Training
     </copyright>
-    <item>
+    <item published="Thu, 8 Jun 2023 10:47:30 EDT">
       <title>
         Weaponized heterogeneity only harms the most vulnerable autistic people
       </title>
