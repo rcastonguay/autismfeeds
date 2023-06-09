@@ -28,7 +28,9 @@ feeds = [
     'https://rcastonguay.github.io/autismfeeds/aid-news.xml',
     'https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml',
     'https://rss.nytimes.com/services/xml/rss/nyt/Science.xml',
-    'https://rss.nytimes.com/services/xml/rss/nyt/Health.xml'
+    'https://rss.nytimes.com/services/xml/rss/nyt/Health.xml',
+    'http://feeds.bbci.co.uk/news/rss.xml',
+    'http://feeds.bbci.co.uk/news/health/rss.xml'
         ]
 
 keywords = ['autism', 'autistic', 'autisme', 'autistique', 'asperger']
