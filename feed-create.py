@@ -33,7 +33,7 @@ feeds = [
     'http://feeds.bbci.co.uk/news/health/rss.xml'
         ]
 
-keywords = ['autism', 'autistic', 'autisme', 'autistique', 'asperger']
+keywords = ['autism', 'autistic', 'autisme', 'autistique', 'asperger', '#autism']
 
 # Create a new feed generator object.
 fg = FeedGenerator()
