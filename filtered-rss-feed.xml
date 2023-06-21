@@ -7,7 +7,7 @@
     <atom:link href="https://rcastonguay.github.io/autismfeeds/index.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 20 Jun 2023 21:16:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2023 01:46:12 +0000</lastBuildDate>
     <item>
       <title>Donald Triplett, ‘Case 1’ in the Study of Autism, Dies at 89</title>
       <link>https://www.nytimes.com/2023/06/18/obituaries/donald-triplett-dead.html</link>
@@ -25,6 +25,18 @@
       <link>https://atlantic.ctvnews.ca/missing-9-year-old-in-p-e-i-found-safe-after-amber-alert-suspect-arrested-1.6447962</link>
       <description>A nine-year-old autistic child missing from eastern Prince Edward Island has been found safe.</description>
       <pubDate>Tue, 20 Jun 2023 09:06:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>A first in Canada: Playground communication boards for Montreal elementary school students with autism</title>
+      <link>https://montreal.ctvnews.ca/a-first-in-canada-playground-communication-boards-for-montreal-elementary-school-students-with-autism-1.6449312</link>
+      <description>For children on the autism spectrum, verbal communication can sometimes be difficult. To help children communicate their feelings and needs at recess, the Lester B. Pearson School Board is installing communication stations in the playgrounds of all of its elementary schools -- a first in Canada.</description>
+      <pubDate>Tue, 20 Jun 2023 23:44:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Langley girl with autism excluded from class field trip — until she wasn't</title>
+      <link>https://vancouversun.com/news/local-news/langley-girl-with-autism-excluded-from-class-field-trip</link>
+      <description>The school district reverses course after publicity on social media and in the local press</description>
+      <pubDate>Tue, 20 Jun 2023 23:48:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
