@@ -7,12 +7,18 @@
     <atom:link href="https://rcastonguay.github.io/autismfeeds/index.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 21 Jun 2023 17:04:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2023 17:10:21 +0000</lastBuildDate>
     <item>
       <title>Donald Triplett, ‘Case 1’ in the Study of Autism, Dies at 89</title>
       <link>https://www.nytimes.com/2023/06/18/obituaries/donald-triplett-dead.html</link>
       <description>He was widely considered the first person to be diagnosed with autism. His happy life later became the subject of a book and documentary.</description>
       <pubDate>Mon, 19 Jun 2023 15:37:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canada disability benefit bill passes Parliament</title>
+      <link>https://www.ctvnews.ca/politics/canada-disability-benefit-bill-passes-parliament-1.6448999</link>
+      <description>The federal government's bill to implement a new Canada Disability Benefit passed Parliament on Tuesday. Bill C-22, from Minister of Employment, Workforce Development and Disability Inclusion Carla Qualtrough, proposes to create a federal income supplement for low-income, working-age people with disabilities, modelled after the Guaranteed Income Supplement. #autism</description>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
