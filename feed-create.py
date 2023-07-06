@@ -30,10 +30,11 @@ feeds = [
     'https://rss.nytimes.com/services/xml/rss/nyt/Science.xml',
     'https://rss.nytimes.com/services/xml/rss/nyt/Health.xml',
     'http://feeds.bbci.co.uk/news/rss.xml',
-    'http://feeds.bbci.co.uk/news/health/rss.xml'
+    'http://feeds.bbci.co.uk/news/health/rss.xml',
+    'https://www.theguardian.com/society/autism/rss'
         ]
 
-keywords = ['autism', 'autistic', 'autisme', 'autistique', 'asperger', '#autism']
+keywords = ['autism', 'autistic', 'autisme', 'autistique', 'asperger', '#autism', 'neurodiversity']
 
 # Create a new feed generator object.
 fg = FeedGenerator()
