@@ -7,7 +7,7 @@
     <atom:link href="https://rcastonguay.github.io/autismfeeds/index.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 20 Jul 2023 12:40:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jul 2023 15:21:19 +0000</lastBuildDate>
     <item>
       <title>Can pop culture do ADHD? (Spoiler: no) – Pop Culture with Chanté Joseph</title>
       <link>https://www.theguardian.com/society/audio/2023/mar/23/can-pop-culture-do-adhd-spoiler-no-pop-culture-with-chante-joseph</link>
@@ -111,10 +111,22 @@
       <pubDate>Mon, 17 Jul 2023 05:00:19 +0000</pubDate>
     </item>
     <item>
+      <title>‘How to Dance in Ohio,’ a Musical, Plans a Fall Broadway Opening</title>
+      <link>https://www.nytimes.com/2023/07/20/theater/how-to-dance-in-ohio-broadway.html</link>
+      <description>A teenage ritual takes on deeper significance as a setting where autistic young people can blossom — and exercise their social skills along the way.</description>
+      <pubDate>Thu, 20 Jul 2023 13:00:20 +0000</pubDate>
+    </item>
+    <item>
       <title>Vernon grad powers through autism to achieve his dreams</title>
       <link>https://vernonmatters.ca/2023/07/03/vernon-grad-powers-through-autism-to-achieve-his-dreams/</link>
       <description>When Ethan Hammerton was two and a half years old his mother Shanda wondered if she would ever hear her son say “mom” again. Shanda Hammerton had a normal pregnancy and Ethan was a healthy baby who developed normally until he was about 14 months old. At 26 months, Ethan had a screening and the family was told that “he is autistic.”</description>
       <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Convicted sex offender and wife arrested in human trafficking investigation at Ontario property</title>
+      <link>https://barrie.ctvnews.ca/convicted-sex-offender-and-wife-arrested-in-human-trafficking-investigation-at-ontario-property-1.6486386</link>
+      <description>A convicted sex offender living on the same property as a summer camp for children with autism in Essa Township was arrested, along with his wife, in a human trafficking investigation two days after Ontario Provincial Police issued a rare public advisory about him.</description>
+      <pubDate>Wed, 19 Jul 2023 22:16:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
