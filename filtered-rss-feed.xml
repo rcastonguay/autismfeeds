@@ -7,7 +7,7 @@
     <atom:link href="https://rcastonguay.github.io/autismfeeds/index.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 29 Jul 2023 03:19:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jul 2023 06:22:47 +0000</lastBuildDate>
     <item>
       <title>Can pop culture do ADHD? (Spoiler: no) – Pop Culture with Chanté Joseph</title>
       <link>https://www.theguardian.com/society/audio/2023/mar/23/can-pop-culture-do-adhd-spoiler-no-pop-culture-with-chante-joseph</link>
@@ -115,6 +115,12 @@
       <link>https://vernonmatters.ca/2023/07/03/vernon-grad-powers-through-autism-to-achieve-his-dreams/</link>
       <description>When Ethan Hammerton was two and a half years old his mother Shanda wondered if she would ever hear her son say “mom” again. Shanda Hammerton had a normal pregnancy and Ethan was a healthy baby who developed normally until he was about 14 months old. At 26 months, Ethan had a screening and the family was told that “he is autistic.”</description>
       <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pour un monde plus bleu, comme la couleur de l’autisme</title>
+      <link>https://www.ledevoir.com/opinion/libre-opinion/795350/libre-opinion-pour-un-monde-plus-bleu-comme-la-couleur-de-l-autisme</link>
+      <description>Il faut favoriser davantage l’inclusion dans les milieux scolaires et au travail.</description>
+      <pubDate>Fri, 28 Jul 2023 22:21:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
