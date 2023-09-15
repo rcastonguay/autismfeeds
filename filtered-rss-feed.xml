@@ -7,7 +7,7 @@
     <atom:link href="https://rcastonguay.github.io/autismfeeds/index.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 15 Sep 2023 01:20:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Sep 2023 03:19:42 +0000</lastBuildDate>
     <item>
       <title>The distressing reality of ‘care’ for disabled young people | Letters</title>
       <link>https://www.theguardian.com/society/2023/apr/26/the-distressing-reality-of-care-for-disabled-young-people</link>
@@ -121,6 +121,12 @@
       <link>https://www.ledevoir.com/societe/798093/centre-autisme-flambant-neuf-ouvre-portes-montreal</link>
       <description>Il réunit sous un même toit une panoplie de services pour les petits comme les grands et leurs familles.</description>
       <pubDate>Thu, 14 Sep 2023 23:49:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Giant Steps autism centre has new home after funding from Quebec, private donations</title>
+      <link>https://montreal.ctvnews.ca/giant-steps-autism-centre-has-new-home-after-funding-from-quebec-private-donations-1.6562433</link>
+      <description>After decades in a smaller space 'The Giant Steps Interdisciplinary Autism Centre' has a new home on Molson Street near the Angus Yards.</description>
+      <pubDate>Fri, 15 Sep 2023 01:17:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
