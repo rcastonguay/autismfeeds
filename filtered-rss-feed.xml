@@ -7,7 +7,7 @@
     <atom:link href="https://rcastonguay.github.io/autismfeeds/index.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 06 Oct 2023 15:21:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Oct 2023 18:25:45 +0000</lastBuildDate>
     <item>
       <title>Pierre Novellie: ‘A heckler diagnosed my Asperger’s so fair play to him’</title>
       <link>https://www.theguardian.com/stage/2023/may/22/pierre-novellie-comedy-q-and-a-heckler-diagnosed-my-aspergers</link>
@@ -109,6 +109,12 @@
       <link>https://vernonmatters.ca/2023/07/03/vernon-grad-powers-through-autism-to-achieve-his-dreams/</link>
       <description>When Ethan Hammerton was two and a half years old his mother Shanda wondered if she would ever hear her son say “mom” again. Shanda Hammerton had a normal pregnancy and Ethan was a healthy baby who developed normally until he was about 14 months old. At 26 months, Ethan had a screening and the family was told that “he is autistic.”</description>
       <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Toronto man with autism, 38, missing; last seen in Montreal</title>
+      <link>https://montreal.ctvnews.ca/toronto-man-with-autism-38-missing-last-seen-in-montreal-1.6592085</link>
+      <description>Montreal police are asking for the public’s help to find a missing 38-year-old man who has autism. Duane Montaque was last seen Thursday at 1 p.m. near Parc metro station in the Villeray-Saint-Michel-Parc-Extension borough. He was also reportedly seen at the Concorde metro station in Laval.</description>
+      <pubDate>Fri, 06 Oct 2023 18:12:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
