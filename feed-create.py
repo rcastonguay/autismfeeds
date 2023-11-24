@@ -42,12 +42,14 @@ fg.title('Autism News')
 fg.link(href='https://rcastonguay.github.io/autismfeeds/index.xml', rel='self')
 fg.description('An RSS feed filtered by autism keywords.')
 
+
 for feed in feeds:
     d = feedparser.parse(feed)
     for entry in d.entries:
         if any(keyword in entry.title.lower() or keyword in entry.summary.lower() or keyword in entry.description.lower() for keyword in keywords):
             fe = fg.add_entry()
-            fe.title(entry.title)
+            #fe.title(entry.title)
+            fe.title(f"{d.feed.title}    {entry.title}")
             fe.link(href=entry.link)
             fe.description(entry.description)
             date = parser.parse(entry.published, fuzzy=True, tzinfos=tzinfos)
@@ -56,7 +58,6 @@ for feed in feeds:
             else:
                 date = date.astimezone(tz.gettz('PST'))
             fe.pubDate(date)
-
 # Generate the RSS feed XML file.
 rssfeed = fg.rss_str(pretty=True)
 print(rssfeed.decode())
