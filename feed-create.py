@@ -51,6 +51,7 @@ for feed in feeds:
             fe.title(entry.title)
             #fe.title(f'<span class="rss-source">{d.feed.title}</span>{entry.title}')
             fe.link(href=entry.link)
+            #fe.description(f'<span class="rss-source">{d.feed.title}</span>{entry.description}')
             fe.description(entry.description)
             date = parser.parse(entry.published, fuzzy=True, tzinfos=tzinfos)
             if date.tzinfo is None or date.tzinfo.utcoffset(date) is None:
