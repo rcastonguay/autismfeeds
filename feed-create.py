@@ -49,7 +49,7 @@ for feed in feeds:
         if any(keyword in entry.title.lower() or keyword in entry.summary.lower() or keyword in entry.description.lower() for keyword in keywords):
             fe = fg.add_entry()
             fe.title(entry.title)
-            #fe.title(f'<span class="rss-source">{d.feed.title}</span>{entry.title}')
+            #fe.ttitle(f'<span class="rss-source">{d.feed.title}</span>{entry.title}')
             fe.link(href=entry.link)
             #fe.description(f'<span class="rss-source">{d.feed.title}</span>{entry.description}')
             fe.description(entry.description)
