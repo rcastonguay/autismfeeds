@@ -3,21 +3,33 @@
     <title>AID News</title>
     <link>https://rcastonguay.github.io/autismfeeds/aid-news.xml</link>
     <language>en-ca</language>
-    <lastBuildDate>Mon, 4 Dec 2023 12:15:30 EDT</lastBuildDate>
+    <lastBuildDate>Mon, 5 Dec 2023 13:42:30 EDT</lastBuildDate>
     <copyright>
       ACT- Autism Community Training
     </copyright>
     <item>
-      <published>Mon, 4 Dec 2023</published>
+      <published>Tue, 5 Dec 2023</published>
       <title>
-        Silent Santa event gives kids with autism a chance to celebrate the holidays.
+        Holidays
       </title>
       <link>
-      https://globalnews.ca/news/10115376/silent-santa-kids-autism-holidays-2023/
+      https://www.autismspeaks.org/holidays
       </link>
-      <author>By Andrew Benson Global News </author>
+      <author>By Autism Speaks</author>
       <description>
-        Santa Claus has been a busy man since coming to malls in Regina this holiday season, but he set aside some time for the kids who might find it difficult to be in large crowds. On Saturday the Government House hosted a Silent Santa event which gave families with autistic children a chance to meet the Christmas icon in a comfortable environment. </description>
+        Holidays can be both the best of times and the worst of times for autistic individuals and their families. Changes in routine, increased social demands, crowds and gatherings, new activities, sensory overloaded events, unfamiliar foods and other out-of-the-ordinary experiences can all present challenges.</description>
+    </item>
+     <item>
+      <published>Tue, 5 Dec 2023</published>
+      <title>
+        Meeting Sensory Needs During the Holidays
+      </title>
+      <link>
+      https://www.autismbc.ca/blog/sensory-friendly-holidays/
+      </link>
+      <author>By Lisa Watson, Autism BC</author>
+      <description>
+        This time of year is filled with an abundance of sensory stimuli unique to the holidays. The lights are brighter, the scents are richer, the food is special, and every day it seems like there is something else to do. For those of us with sensory processing challenges, it can easily become too much. Here are some tips from both a parent’s and autistic adult’s perspective to make this holiday season a little more sensory-friendly.</description>
     </item>
   </channel>
 </rss>
