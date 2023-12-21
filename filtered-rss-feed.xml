@@ -7,7 +7,7 @@
     <atom:link href="https://rcastonguay.github.io/autismfeeds/index.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Dec 2023 06:26:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Dec 2023 09:20:04 +0000</lastBuildDate>
     <item>
       <title>‘I recognised myself for the first time’: the adults finally diagnosed as autistic</title>
       <link>https://www.theguardian.com/society/2023/jul/31/adults-finally-diagnosed-autism-adhd</link>
@@ -115,12 +115,6 @@
       <link>https://www.autismspeaks.org/holidays</link>
       <description>Holidays can be both the best of times and the worst of times for autistic individuals and their families. Changes in routine, increased social demands, crowds and gatherings, new activities, sensory overloaded events, unfamiliar foods and other out-of-the-ordinary experiences can all present challenges.</description>
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Calgary family asking ski resort to reconsider after support staff asked to pay for pass</title>
-      <link>https://globalnews.ca/news/10183637/ski-resort-accessibility-nakiska-ski-area/</link>
-      <description>A Calgary family is asking a nearby ski resort to reconsider its policies after a support staff for their autistic son was denied a complimentary ticket.</description>
-      <pubDate>Thu, 21 Dec 2023 03:03:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
