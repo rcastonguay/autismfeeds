@@ -7,7 +7,7 @@
     <atom:link href="https://rcastonguay.github.io/autismfeeds/index.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 21 Dec 2023 01:23:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Dec 2023 03:20:57 +0000</lastBuildDate>
     <item>
       <title>‘I recognised myself for the first time’: the adults finally diagnosed as autistic</title>
       <link>https://www.theguardian.com/society/2023/jul/31/adults-finally-diagnosed-autism-adhd</link>
@@ -105,12 +105,6 @@
       <pubDate>Sun, 17 Dec 2023 22:37:32 +0000</pubDate>
     </item>
     <item>
-      <title>Autism diagnosis wait times hit 300 days - NHS data</title>
-      <link>https://www.bbc.co.uk/news/uk-england-67713838?at_medium=RSS&amp;at_campaign=KARANGA</link>
-      <description>The number of people waiting for an autism diagnosis is up 50% over the past 12 months.</description>
-      <pubDate>Fri, 15 Dec 2023 07:56:15 +0000</pubDate>
-    </item>
-    <item>
       <title>Meeting Sensory Needs During the Holidays</title>
       <link>https://www.autismbc.ca/blog/sensory-friendly-holidays/</link>
       <description>This time of year is filled with an abundance of sensory stimuli unique to the holidays. The lights are brighter, the scents are richer, the food is special, and every day it seems like there is something else to do. For those of us with sensory processing challenges, it can easily become too much. Here are some tips from both a parent’s and autistic adult’s perspective to make this holiday season a little more sensory-friendly.</description>
@@ -121,6 +115,12 @@
       <link>https://www.autismspeaks.org/holidays</link>
       <description>Holidays can be both the best of times and the worst of times for autistic individuals and their families. Changes in routine, increased social demands, crowds and gatherings, new activities, sensory overloaded events, unfamiliar foods and other out-of-the-ordinary experiences can all present challenges.</description>
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Calgary family asking ski resort to reconsider after support staff asked to pay for pass</title>
+      <link>https://globalnews.ca/news/10183637/ski-resort-accessibility-nakiska-ski-area/</link>
+      <description>A Calgary family is asking a nearby ski resort to reconsider its policies after a support staff for their autistic son was denied a complimentary ticket.</description>
+      <pubDate>Thu, 21 Dec 2023 03:03:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
