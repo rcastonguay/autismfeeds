@@ -7,7 +7,7 @@
     <atom:link href="https://rcastonguay.github.io/autismfeeds/index.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 06 Jan 2024 01:23:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jan 2024 03:20:36 +0000</lastBuildDate>
     <item>
       <title>‘I recognised myself for the first time’: the adults finally diagnosed as autistic</title>
       <link>https://www.theguardian.com/society/2023/jul/31/adults-finally-diagnosed-autism-adhd</link>
@@ -115,6 +115,12 @@
       <link>https://www.autismspeaks.org/holidays</link>
       <description>Holidays can be both the best of times and the worst of times for autistic individuals and their families. Changes in routine, increased social demands, crowds and gatherings, new activities, sensory overloaded events, unfamiliar foods and other out-of-the-ordinary experiences can all present challenges.</description>
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>B.C. mom says non-verbal son with autism given high doses of THC</title>
+      <link>https://globalnews.ca/news/10207732/autism-teen-high-dose-thc/</link>
+      <description>A Powell River woman says her non-verbal, autistic son was given high doses of THC, against explicit instructions.</description>
+      <pubDate>Sat, 06 Jan 2024 01:52:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
