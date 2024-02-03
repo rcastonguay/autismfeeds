@@ -7,7 +7,7 @@
     <atom:link href="https://rcastonguay.github.io/autismfeeds/index.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Fri, 02 Feb 2024 21:16:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2024 01:17:48 +0000</lastBuildDate>
     <item>
       <title>Smartphones aren’t the answer for all autistic people | Letters</title>
       <link>https://www.theguardian.com/society/2023/aug/06/smartphones-arent-the-answer-for-all-autistic-people</link>
@@ -109,6 +109,18 @@
       <link>https://www.autismspeaks.org/holidays</link>
       <description>Holidays can be both the best of times and the worst of times for autistic individuals and their families. Changes in routine, increased social demands, crowds and gatherings, new activities, sensory overloaded events, unfamiliar foods and other out-of-the-ordinary experiences can all present challenges.</description>
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Autism advocates demand investigation after child goes missing from Durham school</title>
+      <link>https://globalnews.ca/news/10270008/autism-advocates-ontario-durham-school-board/</link>
+      <description>A mother said her seven-year-old son, Zak, eloped from his school on Jan. 9, information she said she was shocked to receive in an email from the school principal.</description>
+      <pubDate>Sat, 03 Feb 2024 01:10:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Montreal police seek missing 14-year-old boy with autism</title>
+      <link>https://montreal.ctvnews.ca/montreal-police-seek-missing-14-year-old-boy-with-autism-1.6754080</link>
+      <description>Montreal police are asking for the public's help locating a 14-year-old boy with autism who has been missing since late Friday afternoon.</description>
+      <pubDate>Sat, 03 Feb 2024 00:13:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
