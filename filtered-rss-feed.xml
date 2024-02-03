@@ -7,7 +7,7 @@
     <atom:link href="https://rcastonguay.github.io/autismfeeds/index.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Feb 2024 12:32:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Feb 2024 15:18:34 +0000</lastBuildDate>
     <item>
       <title>Smartphones aren’t the answer for all autistic people | Letters</title>
       <link>https://www.theguardian.com/society/2023/aug/06/smartphones-arent-the-answer-for-all-autistic-people</link>
@@ -115,12 +115,6 @@
       <link>https://www.ledevoir.com/societe/806536/recherche-famille-accueil-gabriel</link>
       <description>Un garçon vivant avec un trouble du spectre de l’autisme habite dans un centre de réadaptation depuis un an et demi.</description>
       <pubDate>Sat, 03 Feb 2024 09:08:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Missing 14-year-old boy with autism found safe: Montreal police</title>
-      <link>https://montreal.ctvnews.ca/missing-14-year-old-boy-with-autism-found-safe-montreal-police-1.6754080</link>
-      <description>A 14-year-old boy with autism who went missing on Friday has been found safe and sound, according to Montreal police.</description>
-      <pubDate>Sat, 03 Feb 2024 00:13:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
