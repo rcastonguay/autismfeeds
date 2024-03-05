@@ -7,7 +7,7 @@
     <atom:link href="https://rcastonguay.github.io/autismfeeds/index.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 05 Mar 2024 15:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2024 18:24:30 +0000</lastBuildDate>
     <item>
       <title>Play with cast of disabled and autistic actors to open at London’s Royal Court</title>
       <link>https://www.theguardian.com/stage/2023/sep/22/play-with-cast-of-disabled-and-autistic-actors-to-open-at-londons-royal-court</link>
@@ -121,6 +121,12 @@
       <link>https://www.autismspeaks.org/holidays</link>
       <description>Holidays can be both the best of times and the worst of times for autistic individuals and their families. Changes in routine, increased social demands, crowds and gatherings, new activities, sensory overloaded events, unfamiliar foods and other out-of-the-ordinary experiences can all present challenges.</description>
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Man with autism who killed abusive father guilty of murder</title>
+      <link>https://www.cbc.ca/news/canada/calgary/vincent-fong-calgary-murder-trial-father-autism-closing-arguments-1.7133349?cmp=rss</link>
+      <description>&lt;img alt="A man in a bucket hat poses for a photo while on vacation. " height="349" src="https://i.cbc.ca/1.5047870.1708987429!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/vincent-fong-calgary.JPG" title="A court-appointed forensic psychiatrist has believes Vincent Fong, 36, is mentally unfit to stand trial, meaning he doesn&amp;apos;t have the capacity to understand the charges against him and can not instruct a lawyer. A hearing will be held so a judge can ultimately make that determination. Fong is accused of murdering his father. " width="620" /&gt;&lt;p&gt;A Calgary man who killed his abusive father has been convicted of murder after jurors deliberated for just three hours.&lt;/p&gt;</description>
+      <pubDate>Mon, 04 Mar 2024 20:32:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
