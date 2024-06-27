@@ -7,7 +7,7 @@
     <atom:link href="https://rcastonguay.github.io/autismfeeds/index.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 26 Jun 2024 21:22:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 01:35:10 +0000</lastBuildDate>
     <item>
       <title>How the rise of autism and ADHD fractured Australia’s schools</title>
       <link>https://www.theguardian.com/australia-news/2024/apr/29/how-the-rise-of-autism-and-adhd-fractured-australias-schools</link>
@@ -121,6 +121,12 @@
       <link>https://vancouversun.com/news/local-news/vancouver-park-board-commissioner-breached-code-of-conduct-integrity-report</link>
       <description>Ruling shows park board commissioner Jas Virdi was wrong when he said rival commissioner Laura Christensen said autistic children 'can just wear earmuffs'</description>
       <pubDate>Wed, 26 Jun 2024 20:58:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Hotels are finally catering to neurodivergent travellers</title>
+      <link>https://vancouversun.com/travel/hotels-are-finally-catering-to-neurodivergent-travellers</link>
+      <description>These often-invisible conditions range from ADHD and autism spectrum disorder to dyslexia and Tourette’s syndrome.</description>
+      <pubDate>Wed, 26 Jun 2024 21:58:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
