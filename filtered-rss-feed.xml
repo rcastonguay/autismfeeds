@@ -7,7 +7,7 @@
     <atom:link href="https://rcastonguay.github.io/autismfeeds/index.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Tue, 09 Jul 2024 09:22:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 12:43:12 +0000</lastBuildDate>
     <item>
       <title>Six-year-old student restrained in infant high chair at NSW school, family claims</title>
       <link>https://www.theguardian.com/australia-news/2024/may/02/six-year-old-student-restrained-in-infant-high-chair-at-nsw-school-family-claims</link>
@@ -115,6 +115,12 @@
       <link>https://www.nytimes.com/2024/07/08/health/autism-gut-microbiome.html</link>
       <description>The research, which builds on previous work, eventually may lead to a more objective diagnostic tool, scientists said.</description>
       <pubDate>Mon, 08 Jul 2024 17:04:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ukraine Looms Over NATO Summit, and Biden Is Defiant on Running</title>
+      <link>https://www.nytimes.com/2024/07/09/podcasts/ukraine-nato-summit-and-biden-running.html</link>
+      <description>Plus, a potential new way to test for autism.</description>
+      <pubDate>Tue, 09 Jul 2024 10:00:33 +0000</pubDate>
     </item>
     <item>
       <title>Meeting Sensory Needs During the Holidays</title>
