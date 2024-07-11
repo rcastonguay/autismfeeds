@@ -7,7 +7,7 @@
     <atom:link href="https://rcastonguay.github.io/autismfeeds/index.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jul 2024 15:23:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 18:29:07 +0000</lastBuildDate>
     <item>
       <title>Six-year-old student restrained in infant high chair at NSW school, family claims</title>
       <link>https://www.theguardian.com/australia-news/2024/may/02/six-year-old-student-restrained-in-infant-high-chair-at-nsw-school-family-claims</link>
@@ -129,10 +129,16 @@
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>When he was diagnosed with autism in his late 30s, he dove into his art. Now, he runs a gallery</title>
-      <link>https://www.ctvnews.ca/entertainment/when-he-was-diagnosed-with-autism-in-his-late-30s-he-dove-into-his-art-now-he-runs-a-gallery-1.6958718</link>
-      <description>After Jay Merriott received his autism diagnosis, he quickly pivoted and decided to immerse himself in what had always made him feel happy: his art.</description>
-      <pubDate>Wed, 10 Jul 2024 20:13:00 +0000</pubDate>
+      <title>Dépister l’autisme au moyen d’un échantillon de selles?</title>
+      <link>https://www.ledevoir.com/societe/sante/816331/echantillon-selles-pourrait-permettre-diagnostiquer-autisme</link>
+      <description>Cela pourrait permettre une prise en charge plus hâtive des patients.</description>
+      <pubDate>Thu, 11 Jul 2024 15:54:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>A stool sample could help diagnose autism</title>
+      <link>https://montreal.ctvnews.ca/a-stool-sample-could-help-diagnose-autism-1.6960031</link>
+      <description>This, at least, is the hope of research carried out at the Chinese University of Hong Kong, the results of which were recently published in the medical journal Nature Biology. The study's authors examined stool samples from 1,627 children aged between 1 and 13, including some with autism. They painted a complete picture of these samples by analyzing the bacteria they contained, but also viruses, fungi and single-celled microorganisms called archaea.</description>
+      <pubDate>Thu, 11 Jul 2024 17:21:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
