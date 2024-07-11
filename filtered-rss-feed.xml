@@ -7,7 +7,7 @@
     <atom:link href="https://rcastonguay.github.io/autismfeeds/index.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Thu, 11 Jul 2024 09:26:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 12:42:17 +0000</lastBuildDate>
     <item>
       <title>Six-year-old student restrained in infant high chair at NSW school, family claims</title>
       <link>https://www.theguardian.com/australia-news/2024/may/02/six-year-old-student-restrained-in-infant-high-chair-at-nsw-school-family-claims</link>
@@ -127,6 +127,12 @@
       <link>https://www.autismspeaks.org/holidays</link>
       <description>Holidays can be both the best of times and the worst of times for autistic individuals and their families. Changes in routine, increased social demands, crowds and gatherings, new activities, sensory overloaded events, unfamiliar foods and other out-of-the-ordinary experiences can all present challenges.</description>
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>When he was diagnosed with autism in his late 30s, he dove into his art. Now, he runs a gallery</title>
+      <link>https://www.ctvnews.ca/entertainment/when-he-was-diagnosed-with-autism-in-his-late-30s-he-dove-into-his-art-now-he-runs-a-gallery-1.6958718</link>
+      <description>After Jay Merriott received his autism diagnosis, he quickly pivoted and decided to immerse himself in what had always made him feel happy: his art.</description>
+      <pubDate>Wed, 10 Jul 2024 20:13:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
