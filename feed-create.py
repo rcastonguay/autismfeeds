@@ -34,7 +34,7 @@ feeds = [
     'https://www.theguardian.com/society/autism/rss'
         ]
 
-keywords = ['autism', 'autistic', 'autisme', 'autistique', 'asperger', '#autism', 'neurodiversity']
+keywords = ['autism', 'autistic', 'autisme', 'autistique', 'asperger', '#autism', 'neurodiversity', 'autiste']
 
 # Create a new feed generator object.
 fg = FeedGenerator()
