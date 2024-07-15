@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Autism News</title>
+    <title>ACT Autism News</title>
     <link>https://rcastonguay.github.io/autismfeeds/filtered-rss-feed.xml</link>
     <description>An RSS feed filtered by autism keywords.</description>
     <atom:link href="https://rcastonguay.github.io/autismfeeds/filtered-rss-feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Mon, 15 Jul 2024 18:29:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 18:43:04 +0000</lastBuildDate>
     <item>
       <title>I’m going to be blunt: our neurotypical school system is the problem | Elly Desmarchelier</title>
       <link>https://www.theguardian.com/australia-news/commentisfree/2024/may/02/im-going-to-be-blunt-our-neurotypical-school-system-is-the-problem</link>
