@@ -7,7 +7,7 @@
     <atom:link href="https://rcastonguay.github.io/autismfeeds/filtered-rss-feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 17 Jul 2024 06:30:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jul 2024 09:26:07 +0000</lastBuildDate>
     <item>
       <title>I’m going to be blunt: our neurotypical school system is the problem | Elly Desmarchelier</title>
       <link>https://www.theguardian.com/australia-news/commentisfree/2024/may/02/im-going-to-be-blunt-our-neurotypical-school-system-is-the-problem</link>
@@ -110,6 +110,12 @@
       <description>Du géant Walmart à des entreprises québécoises comme St-Hubert ou même le Centre Bell et l’OSM : les commerces se réinventent pour inclure la neurodiversité de consommateurs qui ne demandent qu’à les visiter.
       Les dimanches midi, on tamise les lumières dans certains restaurants St-Hubert. On réduit aussi l’intensité de la musique et on s’assure que certains clients ont les meilleures tables, celles qui sont en retrait, pour plus de calme et d’intimité.</description>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ce chien Mira pourra-t-il traverser aux États-Unis en août ?</title>
+      <link>https://www.lapresse.ca/actualites/chroniques/2024-07-17/ce-chien-mira-pourra-t-il-traverser-aux-etats-unis-en-aout.php</link>
+      <description>C’est connu, les chiens Mira font des miracles pour améliorer le quotidien des enfants autistes et de leur entourage. Celui de Noah, un adolescent de Québec, ne fait pas exception. Mais cet été, le précieux labernois est plutôt une source d’inquiétude, puisque d’énigmatiques complications bureaucratiques concernant « l’importation » des chiens aux États-Unis risquent de bousiller les vacances de tous les Canadiens qui veulent traverser la frontière.</description>
+      <pubDate>Wed, 17 Jul 2024 05:41:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
