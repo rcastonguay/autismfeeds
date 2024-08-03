@@ -7,7 +7,7 @@
     <atom:link href="https://rcastonguay.github.io/autismfeeds/filtered-rss-feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Sat, 03 Aug 2024 12:38:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 15:23:28 +0000</lastBuildDate>
     <item>
       <title>Carolann Jackson obituary</title>
       <link>https://www.theguardian.com/society/article/2024/may/05/carolann-jackson-obituary</link>
@@ -110,6 +110,12 @@
       <description>Du géant Walmart à des entreprises québécoises comme St-Hubert ou même le Centre Bell et l’OSM : les commerces se réinventent pour inclure la neurodiversité de consommateurs qui ne demandent qu’à les visiter.
       Les dimanches midi, on tamise les lumières dans certains restaurants St-Hubert. On réduit aussi l’intensité de la musique et on s’assure que certains clients ont les meilleures tables, celles qui sont en retrait, pour plus de calme et d’intimité.</description>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Montreal police looking for missing teen with autism</title>
+      <link>https://montreal.ctvnews.ca/montreal-police-looking-for-missing-teen-with-autism-1.6988384</link>
+      <description>Montreal police (SPVM) are asking for the public’s help to find Alassane Seni Dieng, 17, who has autism and was last seen at his home in the borough of Saint-Leonard.</description>
+      <pubDate>Sat, 03 Aug 2024 14:52:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
