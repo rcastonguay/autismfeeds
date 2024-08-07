@@ -7,7 +7,7 @@
     <atom:link href="https://rcastonguay.github.io/autismfeeds/filtered-rss-feed.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
-    <lastBuildDate>Wed, 07 Aug 2024 09:24:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 12:43:48 +0000</lastBuildDate>
     <item>
       <title>Carolann Jackson obituary</title>
       <link>https://www.theguardian.com/society/article/2024/may/05/carolann-jackson-obituary</link>
@@ -110,12 +110,6 @@
       <description>Du géant Walmart à des entreprises québécoises comme St-Hubert ou même le Centre Bell et l’OSM : les commerces se réinventent pour inclure la neurodiversité de consommateurs qui ne demandent qu’à les visiter.
       Les dimanches midi, on tamise les lumières dans certains restaurants St-Hubert. On réduit aussi l’intensité de la musique et on s’assure que certains clients ont les meilleures tables, celles qui sont en retrait, pour plus de calme et d’intimité.</description>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Autism supports in B.C. schools may be at risk after being cut from program, staff say</title>
-      <link>https://globalnews.ca/news/10684689/risks-autism-supports-bc-schools/</link>
-      <description>The program provides consultation, training and support services to schools across B.C., many in rural communities, in supporting students with autism spectrum disorder.</description>
-      <pubDate>Wed, 07 Aug 2024 01:43:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
