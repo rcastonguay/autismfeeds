@@ -22,11 +22,11 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your script can access it.
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       # Set up Python and install dependencies.
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v4
         with:
           python-version: '3.9' # Replace with your desired Python version.
 
@@ -39,7 +39,7 @@ jobs:
 
       # Commit the updated RSS feed to the GitHub Pages branch.
       - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "UpdateRSSfeed"
           commit_options: "--no-verify"
