@@ -28,9 +28,9 @@ jobs:
 
       # Set up Python and install dependencies.
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9' # Replace with your desired Python version.
+          python-version: '3.12.6' # Replace with your desired Python version.
 
       - name: Install dependencies
         run: pip3 install -r requirements.txt
