@@ -11,7 +11,7 @@ on:
   workflow_dispatch:
     branches:
       - main
-
+  
 jobs:
   update-feed:
     runs-on: ubuntu-latest
@@ -23,6 +23,8 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your script can access it.
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
 
       # Set up Python and install dependencies.
       - name: Set up Python
@@ -44,3 +46,4 @@ jobs:
           commit_message: "UpdateRSSfeed"
           commit_options: "--no-verify"
           token: ${{ secrets.GITHUB_TOKEN }}
+
